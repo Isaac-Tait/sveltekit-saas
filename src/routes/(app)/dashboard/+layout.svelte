@@ -6,9 +6,9 @@
 	<img src="logo.svg" alt="logo" />
 
 	<nav>
-		<a href="/">Home</a>
-		<a href="/pricing">Pricing</a>
-		<button>Sign In</button>
+		<a href="/dashboard">Home</a>
+		<a href="/billing">Billing</a>
+		<button>Sign Out</button>
 	</nav>
 </header>
 
